@@ -63,7 +63,7 @@ const weatherDescriptions = {
 
 async function fetchWeatherData(lat, lon){
     document.getElementById("loading").style.display = "block";
-    const apiUrl = `http://www.7timer.info/bin/api.pl?lon=${lon}&lat=${lat}&product=civil&output=json`;
+    const apiUrl = `https://www.7timer.info/bin/api.pl?lon=${lon}&lat=${lat}&product=civil&output=json`;
     
     console.log("Fetching Weather data from:", apiUrl);
     try{
