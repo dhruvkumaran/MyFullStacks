@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 🌍 City-based 7-day weather forecast
 - 🎨 Beautiful responsive cards with weather icons
@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 - **HTML5**  
 - **CSS3 + Bootstrap 5**
